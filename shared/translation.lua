@@ -65,6 +65,70 @@ Translation = {
         ['fire'] = 'Fire Dance',
         ['snake'] = 'Snake Dance',
     },
+	['pt-br'] = {
+		-- Prompt
+		['prompt_interact'] = 'Sentar-se~o~/~q~Ficar de pé',
+		['prompt_group'] = 'Interações',
+		-- Menu
+		['menu_title'] = 'Interações',
+		['menu_subtitle'] = 'Interagir com o ambiente...',
+		['menu_cancel'] = 'Cancelar interação',
+		['menu_right'] = ' - Direita',
+		['menu_left'] = ' - Esquerda',
+		['menu_middle'] = ' - Meio',
+		['menu_up'] = ' - Cima',
+		-- Cadeiras e bancos
+		['generic_seat_bench_scenario'] = 'Banco',
+		['mp_lobby_prop_human_seat_bench_porch_drinking'] = 'Cerveja',
+		['prop_human_seat_chair_table_drinking'] = 'Cerveja 2',
+		['prop_human_seat_chair_banjo'] = 'Banjo',
+		['prop_human_seat_chair_cigar'] = 'Charuto',
+		['mp_lobby_prop_human_seat_bench_porch_smoking'] = 'Cigarro',
+		['PROP_HUMAN_SEAT_CHAIR_LANGTON'] = 'Cigarro 2',
+		['prop_human_seat_chair'] = 'Cadeira',
+		['prop_human_seat_bench_concertina'] = 'Sanfona',
+		['prop_camp_fire_seat_chair'] = 'Fogueira',
+		['prop_human_seat_chair_fan'] = 'Ventilador', -- Feminino
+		['prop_human_seat_chair_fishing_rod'] = 'Vara de pescar',
+		['prop_human_seat_chair_grooming_posh'] = 'Lixar unhas', -- Feminino
+		['prop_human_seat_chair_grooming_gross'] = 'Triste',
+		['prop_human_seat_chair_guitar'] = 'Violão',
+		['prop_human_seat_bench_harmonica'] = 'Gaita',
+		['prop_human_seat_bench_jaw_harp'] = 'Harpa de mandíbula',
+		['prop_human_seat_chair_knife_badass'] = 'Faca',
+		['prop_human_seat_chair_knitting'] = 'Tricô', -- Feminino
+		['prop_human_seat_bench_mandolin'] = 'Bandolim',
+		['mp_lobby_prop_human_seat_chair'] = 'Sentar',
+		['prop_human_seat_chair_porch'] = 'Varanda',
+		['prop_human_seat_chair_reading'] = 'Lendo', -- Feminino
+		['prop_human_seat_chair_smoke_roll'] = 'Enrolar Cigarro',
+		['mp_lobby_prop_human_seat_chair_whittle'] = 'Whittle',
+		-- Cama
+		['prop_human_sleep_bed_pillow'] = 'Lado',
+		['prop_human_sleep_bed_pillow_high'] = 'Costas',
+		['world_human_sleep_ground_arm'] = 'Sentar',
+		['world_human_sleep_ground_pillow'] = 'Estômago',
+		['world_human_sit_fall_asleep'] = 'Pernas cruzadas',
+		['world_player_sleep_bedroll'] = 'Agachar',
+		['world_player_sleep_ground'] = 'Ronco',
+		-- Piano
+		['prop_human_piano'] = 'Normal',
+		['prop_human_piano_upperclass'] = 'Classe alta',
+		['prop_human_piano_riverboat'] = 'Barco fluvial',
+		['prop_human_piano_sketchy'] = 'Esboçado',
+		['prop_human_abigail_piano'] = 'Normal', -- Feminino
+		-- Banho
+		['bath'] = 'Tomando banho',
+		['bath_scrub_left_arm'] = 'Esfregar o braço esquerdo',
+		['bath_scrub_right_arm'] = 'Esfregar o braço direito',
+		['bath_scrub_left_leg'] = 'Esfregar perna esquerda',
+		['bath_scrub_right_leg'] = 'Esfregue a perna direita',
+		-- Pole
+		['sword'] = 'Dança da Espada',
+		['cancan'] = 'Dança Cancan',
+		['fire'] = 'Dança do Fogo',
+		['snake'] = 'Dança da Cobra',
+	},
     ['de'] = {
         -- Prompt
         ['prompt_interact'] = 'Setzen~o~/~q~Aufstehen',
